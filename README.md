@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ramyallu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramyallu1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ramya sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramya sri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ramya-sri-855599rs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramya sri" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ramya sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ramya sri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sarlaramyasri_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarlaramyasri_7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ramya sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramya sri" height="30" width="40" /></a>
